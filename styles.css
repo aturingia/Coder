@@ -48,13 +48,13 @@ body {
   border-radius:100px;
   background: #111;
 }
-
+/*
 .button:hover {
   box-shadow: 0 3px 10px 0 #CB1DCD inset,0 3px 10px 0 #CB1DCD,
     0 3px 10px 0 #CB1DCD inset,0 3px 10px 0 #CB1DCD;
     text-shadow: 0 0 3px #CB1DCD;
 }
-
+*/
 .editor {
   background: #252744;
     text-align: start;
